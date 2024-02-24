@@ -1,2 +1,4 @@
-# Configurations
-Just a few configuration files
+# PowerShell
+
+**Oh My Posh**
+![Oh My Posh Preview](PowerShell/thoenissen.omp.png)
